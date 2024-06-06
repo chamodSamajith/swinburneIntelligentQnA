@@ -1,0 +1,14 @@
+build
+/.project
+/.idea
+npm-debug.log
+npm-debug.log.*
+.vscode/*
+cert.pem
+key.pem
+.firebase/*
+coverage/*
+.pnp/*
+yarn-error.log
+debug.log
+/node_modules
